@@ -1,0 +1,183 @@
+h1 {
+    position: absolute;
+left: 480px;
+top: 78px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+text-transform: uppercase;
+color: #000000;
+}
+
+.resultats {
+    position: absolute;
+left: 540px;
+top: 152px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+text-transform: uppercase;
+color: black;
+}
+
+div {
+    position: absolute;
+width: 373px;
+height: 156px;
+left: 501px;
+top: 830px;
+padding: 25px;
+background: black;
+}
+
+.depenses {
+    color: white;
+}
+
+.end {
+    position: absolute;
+    top: 1050px;
+    left: 620px;
+    text-decoration: none;
+}
+
+.first_img {
+    position: absolute;
+    left: 450px;
+    top: 250px;
+}
+
+.portefeuille {
+    position: absolute;
+    left: 419px;
+    top: 902px;
+    font-family: 'Roboto';
+    font-style: bold;
+    font-weight: 500;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(-90deg);
+}
+
+.paragraph {
+    position: absolute;
+width: 362px;
+height: 28px;
+left: 540px;
+top: 204px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+color: rgba(140, 140, 140, 0.94);
+}
+
+h2 {
+    position: absolute;
+left: 511px;
+top: 709px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+#lien {
+    color: #000000;
+    text-decoration: none;
+}
+
+@media (min-width: 220px) and (max-width: 995px) {
+  
+    .title {
+        position: absolute;
+        left: 50px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 56px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+
+    .resultats {
+        position: absolute;
+        left: 50px;
+        top: 182px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: black;
+    }
+
+    .paragraph {
+        position: absolute;
+        left: 50px;
+        top: 274px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        color: rgba(140, 140, 140, 0.94);
+    }
+  
+    .first_img {
+        position: absolute;
+        top: 570px;
+        left: 250px;
+    }
+
+    .second_title {
+        position: absolute;
+        left: 311px;
+        top: 1049px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 44px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000000;
+    }
+
+    div {
+        position: absolute;
+        left: 311px;
+        top: 1200px;
+        width: 563px;
+        height: 296px;
+        font-size: 32px;
+    }
+
+    .portefeuille {
+        position: absolute;
+        left: 59px;
+        top: 1330px;
+        font-family: 'Roboto';
+        font-style: bold;
+        font-weight: 500;
+        font-size: 32px;
+        text-transform: uppercase;
+        color: #000000;   
+    }
+
+    .end {
+        position: absolute;
+        left: 411px;
+        top: 1650px;
+    }
+
+    #lien {
+      font-size: 2.5rem;
+    }
+  
+}

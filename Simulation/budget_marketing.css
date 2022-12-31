@@ -1,0 +1,181 @@
+.title {
+    position: absolute;
+    left: 24px;
+    top: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.second_title {
+    position: absolute;
+    left: 24px;
+    top: 103px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.paragraph {
+    position: absolute;
+    left: 24px;
+    top: 154px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(140, 140, 140, 0.94);;
+}
+
+.first_div {
+    position: absolute;
+    width: 434px;
+    height: 94px;
+    left: 25px;
+    top: 275px;
+    color: darkgrey;
+}
+
+.montant {
+    position: absolute;
+    left: 4px;
+    top: -25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000
+}
+
+.first_img {
+    position: absolute;
+    left: 650px;
+    top: -90px;
+}
+
+.third_title {
+    position: absolute;
+    left: 27px;
+    top: 405px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.horizontal {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 27px;
+    top: 443px;
+    border: 2px solid #000000;
+}
+
+.horizontal_second {
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 12px;
+    top: -43px;
+    border: 1px solid gray;
+}
+
+.horizontal_third {
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 15px;
+    top: -43px;
+    border: 1px solid gray;
+}
+
+.horizontal_fourth {
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 12px;
+    top: -33px;
+    border: 1px solid gray;
+}
+
+.horizontal_fifth {
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 15px;
+    top: -33px;
+    border: 1px solid gray;
+}
+
+.second_div {
+    position: absolute;
+    top: 613px;
+    left: 23px;
+} 
+
+.third_div {
+    position: absolute;
+    top: 613px;
+    left: 480px;
+}
+
+.fourth_div {
+    position: absolute;
+    top: 930px;
+    left: 23px;
+}
+
+.text_one {
+    font-size: 26px;
+}
+
+.text_two {
+    font-size: 26px;
+}
+
+.text_three {
+    font-size: 26px;
+}
+
+.end {
+    position: absolute;
+    top: 1270px;
+    left: 380px;
+}
+
+#lien {
+    color: #000000;
+    text-decoration: none;  
+}
+
+.movel {
+    position: absolute;
+    left: 4px;
+    top: 60px;
+    width: 50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 9px;
+    text-transform: uppercase;
+    color: #000000
+}
+
+.bouge {
+    position: absolute;
+    top: 920px;
+    left: 450px;
+    width: 510px;
+}

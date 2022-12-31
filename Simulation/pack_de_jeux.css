@@ -1,0 +1,153 @@
+.title {
+    position: absolute;
+    left: 35px;
+    top: 60px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.second_title {
+    position: absolute;
+    left: 35px;
+    top: 133px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.paragraph {
+    position: absolute;
+left: 35px;
+top: 164px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: rgba(140, 140, 140, 0.94);;
+}
+
+.first_div {
+    position: absolute;
+    width: 434px;
+    height: 94px;
+    left: 36px;
+    top: 245px;
+    color: darkgrey;
+}
+
+.montant {
+    position: absolute;
+    left: 4px;
+    top: -16px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 9px;
+    text-transform: uppercase;
+    color: #000000
+}
+
+.first_img {
+    position: absolute;
+    left: 550px;
+    top: -90px;
+}
+
+.third_title {
+    position: absolute;
+    left: 31px;
+    top: 405px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.horizontal {
+    position: absolute;
+    width: 50px;
+    height: 0px;
+    left: 31px;
+    top: 443px;
+    border: 2px solid #000000;
+}
+
+.second_img {
+    position: absolute;
+    height: 225px;
+    left: -60px;
+    top: 503px;
+}
+
+.second_div {
+    position: absolute;
+    top: 703px;
+    left: 34px;
+} 
+
+.third_img {
+    position: absolute;
+    height: 225px;
+    top: 503px;
+    left: 430px;
+}
+
+.third_div {
+    position: absolute;
+    top: 703px;
+    left: 480px;
+}
+
+.fourth_img {
+   position: absolute;
+   height: 225px;
+   top: 990px;
+   left: -50px;
+}
+
+.fourth_div {
+    position: absolute;
+    top: 1200px;
+    left: 31px;
+}
+
+.text_one {
+    font-size: 26px;
+}
+
+.text_two {
+    font-size: 26px;
+}
+
+.text_three {
+    font-size: 26px;
+}
+
+.end {
+    position: absolute;
+    top: -600px;
+    left: 580px;
+}
+
+#lien {
+    color: white;
+    text-decoration: none;
+}

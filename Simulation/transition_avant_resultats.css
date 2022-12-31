@@ -1,0 +1,51 @@
+div {
+    position: absolute;
+    top: 180px;
+    left: 550px;
+    color: white;
+    padding: 25px;
+    background-color: black;
+}
+
+.end {
+    position: absolute;
+    top: 370px;
+    left: 800px;
+    text-decoration: none;
+}
+
+.first_img {
+    position: absolute;
+    left: 180px;
+    top: 40px;
+}
+
+#lien {
+  color: black;
+  text-decoration: none;
+}
+
+@media (min-width: 320px) and (max-width: 995px) {
+  
+  div {
+    font-size: 2.5rem;
+  }
+
+  .first_img {
+    position: absolute;
+    left: -230px;
+    height: 1000px;
+  }
+
+  .end {
+    position: absolute;
+    top: 880px;
+    height: 100px;
+    left: 750px;
+  }
+
+  #lien {
+    font-size: 2.5rem;
+  }
+
+}
