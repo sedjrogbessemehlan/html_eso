@@ -1,0 +1,37 @@
+body{
+    width: 700px;
+}
+
+#squelette{
+    display: flex;
+    flex-direction: column;
+}
+
+#ecran{
+    display: flex;
+}
+
+.alignement{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    border: 2px green solid;
+    color: green;
+}
+
+.item{
+    margin-top: 30px;
+    font-size: x-large;
+}
+
+header {
+    font-size: xx-large;
+}
+
+#continuer{
+    text-align: center;
+    margin-top: 15px;
+}
